@@ -1,3 +1,6 @@
+> [!Note]
+> The pull request related to this repository has been merged so it is now archived. If you want to make any changes to the code, please do so on the [original repository](https://github.com/dustin-ward/AdventOfCodeDiscord)
+
 # ⭐⭐🎄 Advent Of Code Discord Bot 🎄⭐⭐
 
 A discord bot written in Go to provide leaderboards and nightly notifications to your server!
